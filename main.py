@@ -21,7 +21,8 @@ st.markdown("""#### 1.Black Sea Sprat
 #### 5.Red Sea Bream
 #### 6.Sea Bass, Shrimp
 #### 7.Striped Red Mullet
-#### 8.Trout <br>""",True)
+#### 8.Shrimp
+#### 9.Trout <br>""",True)
 st.markdown("""---""")
 
 
